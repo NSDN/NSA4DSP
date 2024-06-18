@@ -1,0 +1,10 @@
+E:\Works\NSA4DSP\obj\Debug\NSA4DSP.csproj.CoreCompileInputs.cache
+E:\Works\NSA4DSP\bin\Debug\NSA4DSP.dll
+E:\Works\NSA4DSP\bin\Debug\NSA4DSP.pdb
+E:\Works\NSA4DSP\bin\Debug\Assembly-CSharp.dll
+E:\Works\NSA4DSP\bin\Debug\BepInEx.dll
+E:\Works\NSA4DSP\bin\Debug\UnityEngine.CoreModule.dll
+E:\Works\NSA4DSP\bin\Debug\UnityEngine.dll
+E:\Works\NSA4DSP\obj\Debug\NSA4DSP.csproj.CopyComplete
+E:\Works\NSA4DSP\obj\Debug\NSA4DSP.dll
+E:\Works\NSA4DSP\obj\Debug\NSA4DSP.pdb
